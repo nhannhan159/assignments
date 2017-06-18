@@ -15,6 +15,7 @@
 # Asumptions:
 
 	* Update UI base on asumption: 
+	
 	![alt text](https://github.com/nhannhan159/assignments/blob/master/assignment1/screenshot.PNG)
 
 # Step to run:
