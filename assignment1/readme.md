@@ -16,7 +16,7 @@
 
 	Update UI base on asumption: 
 	
-	![Text](https://github.com/nhannhan159/assignments/blob/master/assignment1/screenshot.PNG)
+	![Alt text](https://github.com/nhannhan159/assignments/blob/master/assignment1/screenshot.PNG?raw=true)
 
 # Step to run:
 
