@@ -1,22 +1,28 @@
 # What did you implement:
 
-Closes #XXXXX
+	* Weathers lookup by city name.
+	* Add / remove city.
+	* Fetch newest weather info for each city in DB.
+	* Store all history weather info in DB.
 
 # How did you implement it:
 
-Refactored the `getElement()` method
+	* Using Spring framework.
+	* Using Hibernate with mySQL.
+	* Using RestTemplate to consume OpenWeatherMap API.
+	* Using Angular in client side.
 
-# Asumption:
+# Asumptions:
 
 Refactored the `getElement()` method
 
 # Step to run:
 
-Create `weather` schema in mySQL.
-Set `hibernate.hbm2ddl.auto = create` in `\src\main\resources\application.properties`
-Build project.
-Create tomcat server to run project.
-Navigate to `http://localhost:8080/weather`
+	1. Create `weather` schema in mySQL.
+	2. Set `hibernate.hbm2ddl.auto = create` in `\src\main\resources\application.properties`
+	3. Build project.
+	4. Create tomcat server to run project.
+	5. Navigate to `http://localhost:8080/weather`
 
 # Todos:
 
