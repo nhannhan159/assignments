@@ -14,7 +14,8 @@
 
 # Asumptions:
 
-Refactored the `getElement()` method
+	* Update UI base on asumption: 
+	![alt text](https://github.com/nhannhan159/assignments/blob/master/assignment1/screenshot.PNG)
 
 # Step to run:
 
@@ -29,3 +30,4 @@ Refactored the `getElement()` method
  - [ ] Write tests.
  - [ ] Add async handler.
  - [ ] Add more detailed comments.
+ - [ ] Paging result.
