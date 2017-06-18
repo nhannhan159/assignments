@@ -25,6 +25,7 @@
 	3. Build project.
 	4. Create tomcat server to run project.
 	5. Navigate to `http://localhost:8080/weather`
+	6. Please also connect to internet because I used some libraries in CDN.
 
 # Todos:
 
