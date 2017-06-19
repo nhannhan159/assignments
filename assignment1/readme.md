@@ -1,3 +1,4 @@
+
 # What did you implement:
 
 	* Weathers lookup by city name.
@@ -20,7 +21,7 @@
 
 # Step to run:
 
-	1. Create `weather` schema in mySQL.
+	1. Create `weather` schema in mySQL (using InnoDB for cascading).
 	2. Set `hibernate.hbm2ddl.auto = create` in `\src\main\resources\application.properties`
 	3. Build project.
 	4. Create tomcat server to run project.
