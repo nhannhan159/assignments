@@ -26,6 +26,7 @@
 	4. Create tomcat server to run project.
 	5. Navigate to `http://localhost:8080/weather`
 	6. Please also connect to internet because I used some libraries in CDN.
+	7. In 'Cities' column, add new city in order to see weather of this city, some of tested city: London, Berlin, Tokyo.
 
 # Todos:
 
